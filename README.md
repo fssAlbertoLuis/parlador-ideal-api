@@ -21,12 +21,12 @@ composer install
 php artisan key:generate
 ```
 
+Once copied env file, change database credentials and database name to match your db configs
+
 #### Generate JWT key
 ```
 php artisan jwt:secret
 ```
-
-Once copied env file, change database credentials and database name to match your db configs
 
 #### db migrations
 ```
