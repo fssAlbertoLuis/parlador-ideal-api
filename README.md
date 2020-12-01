@@ -1,5 +1,7 @@
 ## Job application project - Parlador Ideal API
 
+The front-end  APP can be found here: https://github.com/fssAlbertoLuis/parlador-ideal-app
+
 This project was created during a job application test. 
 
 This is an API for a microblogging react native app made in PHP with Laravel Framework. 
